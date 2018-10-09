@@ -1,0 +1,23 @@
+.col-centered{
+  float: none;
+  margin: 0 auto;
+}
+
+.text{
+  margin-top: 100px;
+}
+
+body{
+  background: green;
+  color: white;
+}
+
+.color0{
+  background: green;
+  color: white;
+}
+
+.color1{
+  background: white;
+  color: green;
+}
